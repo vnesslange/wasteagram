@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "440428506573",
+    "project_id": "mobileproject-7f990",
+    "storage_bucket": "mobileproject-7f990.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:440428506573:android:487b64c2459376f5f96884",
+        "android_client_info": {
+          "package_name": "edu.oregonstate.langev.mobile5"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "440428506573-n4a6h044148bmoifpinlnn4ut77u7o3m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNcLBz_0pYhYHKpJygCcBRWNo2O0HvjZI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "440428506573-n4a6h044148bmoifpinlnn4ut77u7o3m.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "440428506573-ruflvcj3ib4c2qai8i6an2m6lvnp8us2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "edu.oregonstate.langev.mobile5"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
